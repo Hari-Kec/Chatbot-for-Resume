@@ -1,0 +1,45 @@
+
+
+
+
+Hari S
+Erode, Tamil Nadu
+    Profile Summary
+* Full Stack AI Developer experienced in building and deploying AI-powered solutions. Focused on creating AI applications that solve real-world problems and enhance user experiences.
+    Area Of Interest: Full Stack Development, Deep Learning, DBMS
+Work Experience	
+Punchbiz - Full Stack AI Developer                                                                                           Jul 2024 – Dec 2024
+* Developed a web-based enterprise billing system using React for the frontend, Node.js for the backend, and PostgreSQL
+for database management, ensuring a seamless and user-friendly interface for accounting operations.
+* Led the development of an enterprise billing system, reducing manual data entry by 40% through OCR integration.
+* Collaborated with a cross-functional team to deliver a scalable, AI-powered billing solution, streamlining financial processes and improving operational efficiency.
+Centillion Labs - Full Stack Developer 	Feb 2024 – Apr 2024
+* Designed and developed the frontend of Aristotle AI chatbot using React, ensuring a clean and user-friendly interface for seamless interactions.
+* Integrated the chatbot with the backend using Python, ensuring smooth communication between the frontend and AI models for real-time functionality.
+* Optimized AI models, reducing response time by 30% and improving chatbot accuracy by 20%. Ensured efficient backend integration and scalability for a high-performance AI-powered chatbot.
+Projects
+Crater and Boulder Detection using Satellite Images | GitHub:// Craters_And_Boulders_Detection       Sep 2024
+* Developed a solution for detecting craters and boulders on the Moon using Chandrayaan-2 satellite images as part of the Smart India Hackathon. Utilized image processing and machine learning techniques to analyze lunar terrain, achieving 90% accuracy in geological feature identification.
+      Yoga pose detection and correction | GitHub:// Yoga_Pose_Detection_Correction                                                Nov 2024
+* Developed a real-time AI-powered web app using TensorFlow and MediaPipe to analyze yoga poses via webcam, achieving 92% accuracy. Built a React.js interface with real-time-posture-correction overlays and for feedback. Reduced alignment errors by 40% in user tests. Optimized inference to <200ms latency using model quantization.
+AI Powered PDF Chatbot | GitHub://PDF_Chatbot                                                                                        Feb 2025
+* Developed a RAG based AI Chatbot for PDF-based Q&A. Integrated BM25 + Vector Search, boosting retrieval accuracy. Enhanced Self-Correction (+45% accuracy) and Adaptive Memory for multi-turn conversations. Built with Langchain, ChromaDB, OpenAI LLM’s and streamlit, ensuring an interactive and efficient user experience.
+CareerbuildAi – AI-Driven Job Automation Platform | GitHub://AI-Career-Accelerator                          Mar 2025
+* Built an AI platform integrating ATS resume analysis (Spacy, Streamlit), LinkedIn bot (Selenium, Flask), and profile enhancers. Used React, Express, MongoDB, Firebase, and Dockerized AWS EC2. Enabled 100+ job auto-applies with PyAutoGUI, Gemini API, and Groq SDK.
+	
+Technical Skills
+Programming & Web: Java, C, Python, React.js, JavaScript, Tailwind CSS, Node.js, Express JS, EJS, JWT, OAuth, RESTful APIs, React Native
+Databases & Cloud: MongoDB, PostgreSQL, SQL, AWS, Firebase, Docker, Git
+ML & DL: TensorFlow, Pytorch, Keras, Scikit-learn, Pandas, NumPy, OpenCV, YOLO, NLTK, Hugging Face, Transformers, LLM, Gen AI, FastAPI, Streamlit, OpenAI, Gemini
+Big Data: Hadoop, Spark, Kafca
+Tools: GitHub, Figma, Power BI, Tableau
+Soft Skills: Communication, Cognitive Flexibility, Teamwork, Quick Learner
+Education
+Kongu Engineering College, Erode, Tamil Nadu	Nov 2022 – present
+B. Tech in Artificial Intelligence and Machine Learning – CGPA: 8.20
+Geethanjali AISSC, Erode, Tamil Nadu – Grade: 68.6 %	May 2022
+Agastya Academy, Tamil Nadu – Grade: 77.8 %	Apr 2020
+  Certifications and Co-Curriculars
+• Won 3rd Prize in 30-Hour Hackathon – Live Transport Tracking System (2024).
+• MongoDB Associate Developer Certification (2025).
+• Published Research Paper on Fake Social Media Detection and Reporting (IEEE, 2024).
